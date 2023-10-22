@@ -27,7 +27,7 @@ function App() {
       {seeSolution ? (
         <div className="    h-full w-full  flex flex-col justify-center items-center relative">
           <p className="md:text-5xl relative top-10 text-center text-4xl font-extrabold bg-gradient-to-r  from-pink-500 bg-clip-text text-transparent to-yellow-500">
-            Shut the fuck up
+            Shut the fuck up!!
           </p>
           <Lottie options={confettiOptions} height={200} width={200} />
           <p className="text-lg sm:text-2xl text-center my-2 font-semibold    text-white">
