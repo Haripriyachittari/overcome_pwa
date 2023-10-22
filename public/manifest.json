@@ -29,6 +29,11 @@
   ],
   "screenshots": [
     {
+      "src": "/screenshots/screenshot2.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
       "src": "/screenshots/screenshot1.png",
       "sizes": "512x512",
       "type": "image/png"

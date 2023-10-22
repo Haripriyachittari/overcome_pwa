@@ -30,7 +30,7 @@ function App() {
             Shut the fuck up
           </p>
           <Lottie options={confettiOptions} height={200} width={200} />
-          <p className="text-lg sm:text-2xl w-[50%] text-center my-2 font-semibold    text-white">
+          <p className="text-lg sm:text-2xl text-center my-2 font-semibold    text-white">
             Stop it, Overthinking is the roller coaster ride with no end. Time
             to get off and enjoy the carnival of life!
           </p>
